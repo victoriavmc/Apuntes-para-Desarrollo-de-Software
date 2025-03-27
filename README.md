@@ -95,6 +95,10 @@ Logo del proyecto (reemplazar URL)
 
 ## 💻 **Tecnologías**
 
+- ¿Que ciclo de vida?
+- ¿Que planificacion se hara?
+- ¿Que actividades realizo/realice?
+
 ### **Arquitectura**
 
 - ¿Qué tecnologías se utilizarán en el frontend y backend?
